@@ -28,13 +28,19 @@
 .text-image {
   padding: 0 1.5px;
   display: flex;
-  width: 100px;
-  height: 20px;
+  width: 105px;
+  height: 26px;
   text-align: center;
   font-size: 12px;
 }
+.text-image > p {
+  padding-bottom: 0;
+}
+.text-image:hover {
+  background-color: #cc2828;
+}
 .img-svg {
-  padding-left: 7px;
+  padding-left: 3px;
 }
 .img-card {
   width: 135px;
@@ -80,3 +86,9 @@
   color: white;
   border-radius: 3px;
 }
+/* .btn {
+  height: 28px;
+}
+.btn:hover {
+  background-color: red;
+} */
