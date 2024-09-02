@@ -77,4 +77,6 @@
 .mark {
   height: 20px;
   background-color: red;
+  color: white;
+  border-radius: 3px;
 }
