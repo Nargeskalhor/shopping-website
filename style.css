@@ -32,9 +32,7 @@
   height: 26px;
   text-align: center;
   font-size: 12px;
-}
-.text-image > p {
-  padding-bottom: 0;
+  font-weight: 500;
 }
 .text-image:hover {
   background-color: #cc2828;
